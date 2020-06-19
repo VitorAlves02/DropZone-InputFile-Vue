@@ -1,7 +1,7 @@
 # DropZone
 
 <h2>Exemplos de DropZone para inserção de arquivos</h2> 
-<h4>Arraste os arquivos ate o dropZone para inserção</h4> 
+<p>Arraste os arquivos ate o dropZone para inserção</p> 
 <br>
 
 # .Componente Criado(html, css, js)
