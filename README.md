@@ -7,11 +7,11 @@
 # .Componente Criado(html, css, js)
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/dropZone2.png"/>
+  <img alt="dropZone2" title="DropZone2" src=".github/dropZone2.png"/>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/dropZone3.png"/>
+  <img alt="dropZone3" title="DropZone3" src=".github/dropZone3.png"/>
 </div>
 
 <br>
@@ -21,11 +21,11 @@
 # .Componente utilizando a biblioteca VueDropzone
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/dropZone5.png"/>
+  <img alt="dropZone5" title="DropZone5" src=".github/dropZone5.png"/>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img alt="home" title="Home" src=".github/dropZone4.png"/>
+  <img alt="dropZone4" title="DropZone4" src=".github/dropZone4.png"/>
 </div>
 
 <br>
